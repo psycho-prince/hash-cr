@@ -7,7 +7,7 @@ hash cracking
 
 
 
-<h1> https://wallpapers.com/images/high/4k-programming-python-logo-95ep7q9hm984yxg8.webp</h1>
+<h1> instructions</h1>
 
 
 
