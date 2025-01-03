@@ -32,4 +32,4 @@ python3 run.py -h hash -t sha256 -w wordlist.txt
 With brute force enabled:
 bash
 Copy code
-python3 run.py -h -<hash>- -t sha1 -n -v
+python3 run.py -h hash -t sha1 -n -v
