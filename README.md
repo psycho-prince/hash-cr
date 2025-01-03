@@ -17,14 +17,14 @@ hash cracking
 Using the built-in wordlist:
 bash
 Copy code
-python3 run.py -h -<hash>- -t md5
+python3 run.py -h hash -t md5
 
 
 
 Using an external wordlist:
 bash
 Copy code
-python3 run.py -h -<hash>--t sha256 -w wordlist.txt
+python3 run.py -h hash -t sha256 -w wordlist.txt
 
 
 
